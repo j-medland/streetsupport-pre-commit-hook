@@ -1,0 +1,1 @@
+ln -s ./git-hooks/pre-commit ./.git/hooks
